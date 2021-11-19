@@ -1,0 +1,42 @@
+h1{
+    font-family: "Monoton";
+}
+
+.fish-hero {
+    align-items: center;
+    background-image: url(img/Flyshing.png);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 900px;
+}
+
+.hero-text {
+    color: white;
+    font-size: 74px;
+    font-weight: 400;
+    
+}
+
+.cta-button {
+    background-color: rgb(72, 107, 116);
+    color: white;
+    border-bottom: 2px solid black;
+    border-radius: 28px;
+    cursor: pointer;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 15px auto;
+    text-align: center;
+    transition: 0.4s ease-in-out;
+    width: 250px;
+    padding: 15px 0;
+    font-family: 'roboto';
+}
+
+.cta-button:hover {
+    background-color: teal;
+}
+
