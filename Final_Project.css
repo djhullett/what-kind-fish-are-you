@@ -2,20 +2,27 @@ h1{
     font-family: "Monoton";
 }
 
+h2{
+    font-family: 'roboto';
+    font-size: 45px;
+    color: white;
+}
+
 .fish-hero {
     align-items: center;
-    background-image: url(img/Flyshing.png);
+    background-image: url(img/Fly-Fishing-2.jpg);
     background-position: center center;
     background-size: cover;
     display: flex;
     justify-content: center;
-    height: 900px;
+    height: 700px;
 }
 
 .hero-text {
-    color: white;
-    font-size: 74px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
     font-weight: 400;
+
     
 }
 
@@ -34,9 +41,89 @@ h1{
     width: 250px;
     padding: 15px 0;
     font-family: 'roboto';
+    text-decoration: none;
+
 }
 
 .cta-button:hover {
     background-color: teal;
+    color: white;
 }
 
+.fish-section{
+    background-position: center center;
+    background-size: cover;
+    height: 680px;
+    background-image: url(img/Underwater.jpg);
+    
+    
+
+}
+
+.select-month-box {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.select-month {
+
+}
+
+.featured-fish {
+    width: 600px;
+    height: 400px;
+    
+
+}
+
+
+
+.form-select {
+    background-color: rgb(72, 107, 116);
+    color: white;
+    font-size: 25px;
+    font-family: 'roboto';
+    border-radius: 10px;
+    border-color: black;
+    transition: 0.4s ease-in-out;
+    
+}
+
+.form-select:hover{
+    background-color: teal;
+}
+
+
+.featured-fish {
+    /* animation-duration: 3s;
+    animation-name: slidein; */
+}
+
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+#slide {
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
