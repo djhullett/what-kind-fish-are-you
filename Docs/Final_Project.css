@@ -1,0 +1,320 @@
+h1{
+    font-family: "Monoton";
+}
+
+h2{
+    font-family: 'roboto';
+    font-size: 45px;
+    color: white;
+}
+
+.fish-hero {
+    align-items: center;
+    background-image: url(img/Fly-Fishing-2.jpg);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+}
+
+
+
+.hero-text {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+
+    
+}
+
+.cta-button {
+    background-color: rgb(72, 107, 116);
+    color: white;
+    border-bottom: 2px solid black;
+    border-radius: 28px;
+    cursor: pointer;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 15px auto;
+    text-align: center;
+    transition: 0.4s ease-in-out;
+    width: 250px;
+    padding: 15px 0;
+    font-family: 'roboto';
+    text-decoration: none;
+
+}
+
+.cta-button:hover {
+    background-color: teal;
+    color: white;
+}
+
+.fish-section{
+    background-position: center center;
+    background-size: cover;
+    height: 680px;
+    background-image: url(img/Underwater.jpg);
+    
+    
+
+}
+
+.select-month-box {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.featured-fish {
+    width: 600px;
+    height: 400px;
+    
+
+}
+
+
+
+.form-select {
+    background-color: rgb(72, 107, 116);
+    color: white;
+    font-size: 25px;
+    font-family: 'roboto';
+    border-radius: 28px;
+    border-color: black;
+    transition: 0.4s ease-in-out;
+    margin: 25px auto;
+    
+}
+
+
+
+
+.form-select:hover{
+    background-color: teal;
+}
+
+
+.featured-fish {
+    animation-duration: 5s;
+    animation-name: slidein;
+}
+
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+#slide_1 {
+    animation-duration: 3s;
+    animation-name: slide-1;
+}
+
+@keyframes slide-1 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_2 {
+    animation-duration: 3s;
+    animation-name: slide-2;
+}
+
+@keyframes slide-2 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_3 {
+    animation-duration: 3s;
+    animation-name: slide-3;
+}
+
+@keyframes slide-3 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_4 {
+    animation-duration: 3s;
+    animation-name: slide-4;
+}
+
+@keyframes slide-4 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_5 {
+    animation-duration: 3s;
+    animation-name: slide-5;
+}
+
+@keyframes slide-5 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_6 {
+    animation-duration: 3s;
+    animation-name: slide-6;
+}
+
+@keyframes slide-6 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_7 {
+    animation-duration: 3s;
+    animation-name: slide-7;
+}
+
+@keyframes slide-7 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_8 {
+    animation-duration: 3s;
+    animation-name: slide-8;
+}
+
+@keyframes slide-8 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_9 {
+    animation-duration: 3s;
+    animation-name: slide-9;
+}
+
+@keyframes slide-9 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_10 {
+    animation-duration: 3s;
+    animation-name: slide-10;
+}
+
+@keyframes slide-10 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_11 {
+    animation-duration: 3s;
+    animation-name: slide-11;
+}
+
+@keyframes slide-11 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }
+
+  #slide_12 {
+    animation-duration: 3s;
+    animation-name: slide-12;
+}
+
+@keyframes slide-12 {
+    from {
+      margin-left: 100%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+      
+    }
+  }

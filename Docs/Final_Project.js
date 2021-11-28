@@ -1,9 +1,7 @@
 document.addEventListener('DOMContentLoaded', function(event) {
 
 
-
-// Some Javascript in HTML line 57
-
-
+// See java script in html on line 57
+       
 
 });
