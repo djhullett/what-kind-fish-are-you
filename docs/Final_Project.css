@@ -10,7 +10,7 @@ h2{
 
 .fish-hero {
     align-items: center;
-    background-image: url(img/Fly-Fishing-2.jpg);
+    background-image: url(Img/Fly-Fishing-2.jpg);
     background-position: center center;
     background-size: cover;
     display: flex;
@@ -56,7 +56,7 @@ h2{
     background-position: center center;
     background-size: cover;
     height: 680px;
-    background-image: url(img/Underwater.jpg);
+    background-image: url(Img/Underwater.jpg);
     
     
 
